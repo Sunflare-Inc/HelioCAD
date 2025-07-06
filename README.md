@@ -14,3 +14,8 @@ More coming soon... 👀
 ```bash
 pip install PyQt6 svgwrite
 python HelioCAD.py
+
+### Credits
+
+AI Assistant: [ChatGPT by OpenAI](https://openai.com/chatgpt)  Small help with debug
+Prompt Engineer & Developer: Dash Filton / [Sunflare-Inc](https://github.com/Sunflare-Inc)  
