@@ -5,7 +5,7 @@ HelioCAD is a lightweight 2D CAD tool made in Python (snek 🐍) using PyQt6.
 ### Features:
 - Draw lines, rectangles, circles
 - Snap to grid
-- Save/load `.dcad` files
+- Save/load `.hcad` files
 - Export SVG vector graphics
 
 More coming soon... 👀
